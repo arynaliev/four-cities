@@ -6,7 +6,7 @@
   align-items: center;
 }
 
-.img-box {
+.main-img-box {
   width: 60%;
   display: grid;
   gap: 20px;
@@ -14,7 +14,7 @@
   grid-template-rows: 1fr 1fr;
 }
 
-.img-box img {
+.main-img-box img {
   width: 100%;
   border-radius: 1rem;
 }
